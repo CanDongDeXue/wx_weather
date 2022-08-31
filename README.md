@@ -1,10 +1,8 @@
 # daily_reminder
-给女朋友做的微信天气推送
 
 教程链接
 
 https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shareUid=3198334&shareFrom=com.coolapk.app_4.10
-
 
 
 
@@ -42,6 +40,3 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 ![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/others/Snipaste_2022-08-24_12-13-19.png)
 ![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/others/Snipaste.png)
 
-
-
-有别的建议欢迎留言
